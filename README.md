@@ -69,7 +69,7 @@
 ### :zap: Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/Mir-Yuchi](https://github.com/Mir-Yuchi/Mir-Yuchi)<br>
+1. ⬆️ Pushed 8 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
 2. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/Mir-Yuchi](https://github.com/Mir-Yuchi/Mir-Yuchi)<br>
 3. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/Mir-Yuchi](https://github.com/Mir-Yuchi/Mir-Yuchi)<br>
 4. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/Mir-Yuchi](https://github.com/Mir-Yuchi/Mir-Yuchi)<br>
@@ -77,7 +77,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 23rd, 2023, 1:35:43 PM
+Last Updated: Wednesday, August 23rd, 2023, 2:11:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
