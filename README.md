@@ -66,12 +66,10 @@
 
 
 ---
-### :zap: Recent Activity
-
+### :zap: Recent Activities
 <!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
 ---
 
 ## ❤ Views and Followers
