@@ -81,13 +81,6 @@ Last Updated: Monday, August 28th, 2023, 3:35:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
-### 🕐 WakaTime Stats
-
-<div>
-<img alt="Edito's stats" src="https://wakatime.com/share/@1e1c0af7-3628-4497-9d0a-a57963eb736d/da3f42a8-631a-4451-8bfa-35550a318988.svg" style="width: 45%">
-<img alt="OS stats" src="https://wakatime.com/share/@1e1c0af7-3628-4497-9d0a-a57963eb736d/4a43f4da-b956-4ec3-a66b-59298f7325b1.svg" style="width: 45%">
-</div>
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
