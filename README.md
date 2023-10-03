@@ -69,15 +69,15 @@
 ### :zap: Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Mir-Yuchi/physics](https://github.com/Mir-Yuchi/physics)<br>
-2. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
-3. ⬆️ Pushed 7 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
-4. ⬆️ Pushed 5 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
-5. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/Mir-Yuchi](https://github.com/Mir-Yuchi/Mir-Yuchi)<br>
+1. 📔 Created new repository [Mir-Yuchi/CAU_Sophomore_hw](https://github.com/Mir-Yuchi/CAU_Sophomore_hw)<br>
+2. 📔 Created new repository [Mir-Yuchi/physics](https://github.com/Mir-Yuchi/physics)<br>
+3. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
+4. ⬆️ Pushed 7 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
+5. ⬆️ Pushed 5 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 3rd, 2023, 5:35:55 PM
+Last Updated: Tuesday, October 3rd, 2023, 6:17:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
