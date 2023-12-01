@@ -73,11 +73,10 @@
 2. ⬆️ Pushed 2 commit(s) to [Mir-Yuchi/CAU_Sophomore_hw](https://github.com/Mir-Yuchi/CAU_Sophomore_hw)<br>
 3. 📔 Created new repository [Mir-Yuchi/CAU_Sophomore_hw](https://github.com/Mir-Yuchi/CAU_Sophomore_hw)<br>
 4. 📔 Created new repository [Mir-Yuchi/physics](https://github.com/Mir-Yuchi/physics)<br>
-5. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 1st, 2023, 4:36:53 AM
+Last Updated: Friday, December 1st, 2023, 5:13:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
