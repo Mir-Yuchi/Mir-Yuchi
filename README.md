@@ -22,6 +22,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 <!--     <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="50" height="50"/></a>  -->
     <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" height='45px', width="45px"/></a>
+     <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" height='45px', width="45px"/></a>
     <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
 <!--     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/> </a> -->
 <!--     <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="50"/> </a> -->
