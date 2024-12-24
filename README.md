@@ -6,7 +6,7 @@
 ## About me
 
 - BackEnd developer 💻
-- Computer Science Sophomore Student🧑‍🎓
+- Computer Science/Cyber Security Student🧑‍🎓
 - 🌱 I actively work with **Python** (bots, server side of sites(backend), etc.)
 
 - :clock9: actively learning **Rust/Mojo/CS/Backend Technologies**
