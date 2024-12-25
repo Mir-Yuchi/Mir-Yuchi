@@ -70,11 +70,12 @@
 ### :zap: Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
+1. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/Mir-Yuchi](https://github.com/Mir-Yuchi/Mir-Yuchi)<br>
+2. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/leetcode_problems](https://github.com/Mir-Yuchi/leetcode_problems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 24th, 2024, 1:26:49 AM
+Last Updated: Wednesday, December 25th, 2024, 1:25:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
