@@ -70,15 +70,15 @@
 ### :zap: Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Mir-Yuchi/libraryAPI](https://github.com/Mir-Yuchi/libraryAPI)<br>
-2. ⬆️ Pushed 5 commit(s) to [Mir-Yuchi/libraryAPI](https://github.com/Mir-Yuchi/libraryAPI)<br>
-3. ⬆️ Pushed 2 commit(s) to [Mir-Yuchi/libraryAPI](https://github.com/Mir-Yuchi/libraryAPI)<br>
-4. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/libraryAPI](https://github.com/Mir-Yuchi/libraryAPI)<br>
-5. ⬆️ Pushed 9 commit(s) to [Mir-Yuchi/libraryAPI](https://github.com/Mir-Yuchi/libraryAPI)<br>
+1. ⬆️ Pushed 3 commit(s) to [Mir-Yuchi/SkyScan](https://github.com/Mir-Yuchi/SkyScan)<br>
+2. ⬆️ Pushed 5 commit(s) to [Mir-Yuchi/SkyScan](https://github.com/Mir-Yuchi/SkyScan)<br>
+3. ⬆️ Pushed 2 commit(s) to [Mir-Yuchi/SkyScan](https://github.com/Mir-Yuchi/SkyScan)<br>
+4. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/SkyScan](https://github.com/Mir-Yuchi/SkyScan)<br>
+5. ⬆️ Pushed 1 commit(s) to [Mir-Yuchi/SkyScan](https://github.com/Mir-Yuchi/SkyScan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 25th, 2025, 1:57:22 AM
+Last Updated: Monday, May 26th, 2025, 1:52:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
