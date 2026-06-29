@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mirkamol Mirazimov</h1>
+<h1 align="center">👋 Hi, I'm Mir</h1>
 <h3 align="center">Software Engineer — Cloud Migration · Backend · AI</h3>
 <p align="center"><em>Backend & cloud specialist shipping across the stack — from multi-cloud migration engines to AI platforms</em></p>
 
@@ -6,11 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 **Cloud Migration Eng & Tier-3 Support** @ [RiverMeadow](https://rivermeadow.com) — Core dev on an automated Lift & Shift engine across AWS, GCP, Azure, HPE, OpenStack & NC2
-- 🚀 **Backend Lead / DevOps** @ [GigWave](https://gigwave.tech) — Multi-tenant AI management platform on GCP Cloud Run
 - 🎓 **B.Eng. Cyber Security** — Xiamen University Malaysia (XMUM) · Kuala Lumpur
 - 🤖 3+ years in backend, cloud & AI — LLM/RAG pipelines, agentic workflows, computer vision (YOLO, MediaPipe)
-- 🏆 **Former CTO @ RateFlow** — Hult Prize Top 8 Malaysia / Top 500 Worldwide (~16,000 teams, 60 countries)
 - 🔒 Passionate about Cybersecurity & CTF challenges · Linux & workflow tooling
 - 📍 Kuala Lumpur, Malaysia &nbsp;|&nbsp; 📫 [mirazimov.kr@gmail.com](mailto:mirazimov.kr@gmail.com) &nbsp;|&nbsp; 🌐 [mir-dev.tech](https://mir-dev.tech)
 
