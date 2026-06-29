@@ -11,7 +11,7 @@
 - 🔒 Passionate about Cybersecurity & CTF challenges · Linux & workflow tooling
 - 📍 Kuala Lumpur, Malaysia &nbsp;|&nbsp; 📫 [mirazimov.kr@gmail.com](mailto:mirazimov.kr@gmail.com) &nbsp;|&nbsp; 🌐 [mir-dev.tech](https://mir-dev.tech)
 
-## 🔗 Connect
+## Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/mirkamol-mirazimov" target="_blank">
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 <p>
@@ -102,13 +102,13 @@
   <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square"/>
 </p>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mir-Yuchi&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <br/>
 <p align="center">
@@ -123,13 +123,13 @@
   </a>
 </p>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mir-Yuchi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true" />
 </p>
 
-## 🧩 LeetCode
+## LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Mir-Yuchi?theme=dark&font=PT%20Serif&ext=heatmap" />
