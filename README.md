@@ -140,11 +140,12 @@
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Mir-Yuchi/SWE402_Assignment](https://github.com/Mir-Yuchi/SWE402_Assignment)<br>
+1. ⬆️ Pushed undefined commit(s) to [Mir-Yuchi/Mir-Yuchi.github.io](https://github.com/Mir-Yuchi/Mir-Yuchi.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [Mir-Yuchi/SWE402_Assignment](https://github.com/Mir-Yuchi/SWE402_Assignment)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 2nd, 2026, 3:16:26 AM
+Last Updated: Monday, August 3rd, 2026, 3:18:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
